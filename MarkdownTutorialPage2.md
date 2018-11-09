@@ -6,14 +6,14 @@
 # **Inserting Links** 
 * Name the hyperlink by using []. For example: [Link to Google!] 
 * After completing the hyperlink, insert the URL immediately after, using parenthesis (). For example (https://www.google.com)
-* The completed function should look like this [Link to Google!](https://www.google.com) 
+* The completed function should look like this: [Link to Google!](https://www.google.com) 
 ***
 # **Creating Lists** 
 
 ## Unordered List 
-* To start a list add two astericks before and after your header to bold your topic. 
-* Just add one asterick for each subject line after your header to create bullets!
-  * To create a sub-bullet, hit the tab button once before you insert an asterick!
+* To start a list add two asterisks before and after your header to bold your topic. 
+* Just add one asterisk for each subject line after your header to create bullets!
+  * To create a sub-bullet, hit the tab button once before you insert an asterisk!
   * Creating lists are very simple! 
 
 ## Numbered List 
@@ -24,11 +24,11 @@
 # **Bold and Italicized Text** 
 
 ## Bold Text
-* To make a word or sentence bold, add 2 astericks before and after what you would like to bold. Also, make sure there is not a space between the asterick and the first letter and last letter of the subject. For example: **Hello!**
+* To make a word or sentence bold, add 2 asterisks before and after what you would like to bold. Also, make sure there is not a space between the asterisk and the first letter and last letter of the subject. For example: **Hello!**
 * You can also insert 2 underscores before and after the word or sentence to bold the subject field!
 
 ## Italicized Text 
-* To make a word or sentence in italics, only add 1 asterick before and after what you would like to italicize. Just like making a bold text, make sure there is no space between the asterick and the first letter and last letter of the subject. For example: *Hello!*
+* To make a word or sentence in italics, only add 1 asterisk before and after what you would like to italicize. Just like making a bold text, make sure there is no space between the asterisk and the first letter and last letter of the subject. For example: *Hello!*
 * You can also insert 1 underscore before and after the word or sentence to italicize the subject field!
 ***
 [Main Page](https://github.com/ChaseMiles/Tutorial-for-basic-functions-in-markdown)
