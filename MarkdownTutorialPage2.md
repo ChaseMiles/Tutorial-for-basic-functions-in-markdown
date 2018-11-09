@@ -20,3 +20,6 @@
 1. To start a numbered list, just simply add the number 1 followed by a period, before each subject line. For example: "1."
 1. The confusing part for a numbered list is that you must keep inserting "1." before each subject line regardless of what number that certain subject line may be. 
 1. To clear the confusion, you will type "1." before you type out your subject line each time, but the result will come out 1. 2. 3. 4. and so on. 
+***
+# **Bold and Italicized Text** 
+* To make a word or sentence bold, add 2 asterick's before and after what you would like to bold. Also, make sure there is not a space between asterick and the first letter and last letter of the subject. For example **Hello!**
