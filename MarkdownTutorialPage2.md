@@ -1,3 +1,3 @@
-## How to create different sized headers 
+# How to create different sized headers 
 
-# This is an H1 tag.
+## This is an H2 tag.
