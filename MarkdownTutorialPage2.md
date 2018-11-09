@@ -31,4 +31,4 @@
 * To make a word or sentence in italics, only add 1 asterick before and after what you would like to italicize. Just like making a bold text, make sure there is no space between the asterick and the first letter and last letter of the subject. For example: *Hello!*
 * You can also insert 1 underscore before and after the word or sentence to italicize the subject field!
 ***
-[Main Page](
+[Main Page](https://github.com/ChaseMiles/Tutorial-for-basic-functions-in-markdown)
