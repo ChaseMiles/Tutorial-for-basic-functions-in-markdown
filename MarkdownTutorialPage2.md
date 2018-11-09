@@ -12,5 +12,6 @@
 
 ## Bulleted List 
 * To start a list add two asterick's before and after your header to bold your topic. 
-* Just add one asterick for each subject line after your header to create bullets! 
+* Just add one asterick for each subject line after your header to create bullets!
+ * Hello
 
