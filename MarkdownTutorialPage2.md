@@ -1,5 +1,5 @@
 # **How to Create Different Sized Headers**
-* ## This is an H2 tag!
+* ## This is an H2 tag! For example: (## this is an H2 tag.)
 * To create different sized tags, you must use the # symbol.
 * The number of #'s determines the size of header. For example: #### would be an H4 tag.
 ***
