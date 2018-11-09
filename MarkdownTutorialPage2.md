@@ -19,3 +19,4 @@
 ## Numbered List 
 1. To start a numbered list, just simpily add the number 1 before each subject line. For example: "1."
 1. The confusing part for a numbered list is that you must keep inserting "1." before each subject line regardless of what number that certain subject line may be. 
+1. To clear the confusion, you will type "1." before you type out your subject line, but the result will come out 1. 2. 3. 4. and so on. 
