@@ -16,3 +16,6 @@
   * To create a sub-bullet, hit the tab button once before you insert an asterick!
   * Creating lists are very simple! 
 
+## Numbered List 
+1. To start a numbered list, just simpily add the number 1 before each subject line. For example: "1."
+1. The confusing part for a numbered list is that you must keep inserting "1." before each subject line regardless of what number that certain subject line may be. 
