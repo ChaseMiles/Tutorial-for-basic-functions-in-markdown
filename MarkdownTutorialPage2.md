@@ -5,7 +5,7 @@
 ***
 # **Inserting Links** 
 * Name the hyperlink by using []. For example: [Link to Google!] 
-* After completing the hyperlink, insert the link immediately after, using parenthesis (). For example (https://www.google.com)
+* After completing the hyperlink, insert the URL immediately after, using parenthesis (). For example (https://www.google.com)
 * The completed function should look like this [Link to Google!](https://www.google.com) 
 ***
 # **Creating Lists** 
