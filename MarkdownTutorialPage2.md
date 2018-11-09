@@ -9,4 +9,5 @@
 * The completed function should look like this [Link to Google!](https://www.google.com) 
 ***
 # **Creating Lists** 
-* To start a list add two asterick's before and after your header. For example **Creating Lists**
+* To start a list add two asterick's before and after your header to bold your topic. 
+* Just add one asterick for each subject line after your header to create bullets!
