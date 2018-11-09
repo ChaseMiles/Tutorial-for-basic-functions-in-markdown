@@ -1,1 +1,3 @@
-## How create different sized headers 
+## How to create different sized headers 
+
+# This is an <h1> tag
