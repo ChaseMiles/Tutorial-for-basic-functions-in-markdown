@@ -4,5 +4,6 @@
 * The number of #'s determines the size of header. For example: #### would be an H4 tag.
 ***
 # **Inserting Links** 
-* Name the hyperlink by using []. For example: [Google] 
-* After completing the hyperlink instert the link immediately after, using parenthesis (). For example (https://www.google.com)
+* Name the hyperlink by using []. For example: [Link to Google!] 
+* After completing the hyperlink, insert the link immediately after, using parenthesis (). For example (https://www.google.com)
+* The completed function should look like this [Link to Google!](https://www.google.com) 
