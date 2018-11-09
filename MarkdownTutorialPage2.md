@@ -25,7 +25,7 @@
 
 ## Bold Text
 * To make a word or sentence bold, add 2 asterisks before and after what you would like to bold. Also, make sure there is not a space between the asterisk and the first letter and last letter of the subject. For example: **Hello!**
-* You can also insert 2 underscores before and after the word or sentence to bold the subject field!
+* You can also replace the asterisks with 2 underscore and have the same outcome. 
 
 ## Italicized Text 
 * To make a word or sentence in italics, only add 1 asterisk before and after what you would like to italicize. Just like making a bold text, make sure there is no space between the asterisk and the first letter and last letter of the subject. For example: *Hello!*
